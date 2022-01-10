@@ -3,6 +3,11 @@
   padding: 24px 0 0;
 }
 
+.header__top {
+  display: flex;
+  justify-content: space-between;
+}
+
 .header_template {
   background: var(--grey-5);
 }

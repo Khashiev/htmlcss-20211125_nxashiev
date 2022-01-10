@@ -14,6 +14,11 @@
   cursor: pointer;
 }
 
+.toggler__state_theme-changer {
+  display: flex;
+  gap: 12px;
+}
+
 .toggler__control {
   width: 52px;
   height: 28px;
